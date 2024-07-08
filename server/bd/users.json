@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "username": "mathvbl",
+    "email": "mathvbl@hotmail.com",
+    "password": "$2b$10$QroDYLEMOZdctinjGPUg8OMCuPNoVnflM4techsBDGghks4wLmW/C"
+  },
+  {
+    "id": 2,
+    "username": "mathvbl2",
+    "email": "mathvbl2@hotmail.com",
+    "password": "$2b$10$TnlkWBLhF/TkxN07OsJa/.2t10N8F.G4hwecmXTdq28cdZN9T73k."
+  },
+  {
+    "id": 3,
+    "username": "mathvbll",
+    "password": "$2b$10$2xX6o0KYJhi5Lfn3Z1/JeeTBunLBTotezs.Yt/g2KjrGuS66dnKGi"
+  },
+  {
+    "id": 4,
+    "username": "a",
+    "email": "a@hotmail.com",
+    "password": "$2b$10$VRoR0GGzu3QzHuJC./afHus2rQYpAn2wD1N.PDz63KsMvj.ULT5hW"
+  },
+  {
+    "id": 5,
+    "username": "b",
+    "email": "ab@hotmail.com",
+    "password": "$2b$10$ImUQuPySnw8AxEFx1MYCBu65rt.Pyv8kQWQgHG7Kgup69X6NPL6Ve"
+  },
+  {
+    "id": 6,
+    "username": "b5",
+    "email": "ab3@hotmail.com",
+    "password": "$2b$10$NZUMg0tPiRf26OwO43IPcOGJ6.3BKe2IAjP/NZk8QsuPVN109HsZ6"
+  },
+  {
+    "id": 7,
+    "username": "ab",
+    "email": "ab4@hotmail.com",
+    "password": "$2b$10$R3LJadmVDHSaJhdVwxGPNedJzLEbeWI68drSV2VUPZ0yiRRhdQNtm"
+  }
+]
